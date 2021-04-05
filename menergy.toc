@@ -1,0 +1,8 @@
+## Interface: 11306
+## Title: menergy
+## Author: meneus
+## Notes: simple energy ticker
+## SavedVariables: menergy_db
+
+config.lua
+menergy.lua
