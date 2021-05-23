@@ -1,4 +1,4 @@
-## Interface: 11306
+## Interface: 20501
 ## Title: menergy
 ## Author: meneus
 ## Notes: simple energy ticker

@@ -5,11 +5,11 @@ do
 	event_handler:Hide()
 
 	event_handler:SetScript('OnEvent', function(self, event, ...)
-	    local f = addon[event]
-	    if type(f) == 'function' then
-	        f(addon, event, ...)
-	    end
-	end)
+	 local f = addon[event]
+	 if type(f) == 'function' then
+		 f(addon, event, ...)
+	 end
+ end)
 
 	addon.event_handler = event_handler
 end
